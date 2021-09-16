@@ -23,4 +23,4 @@ CCS Sim models the behaviour of the system.
 
 ### Application
 
-You can read about it here or **take a look** at **[fams.vercel.app](https://fams.vercel.app/)**.
+You can read about it here or **take a look** at **[parallel-reservoirs.vercel.app](https://parallel-reservoirs.vercel.app/)** if you have login details.
